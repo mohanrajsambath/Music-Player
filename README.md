@@ -1,7 +1,7 @@
 Music Player
 ============
 
-Fully functional music player is written in swift programming language. 
+Fully functional music player which is written in swift programming language. 
 
  ![alt tag](https://raw.githubusercontent.com/bpolat/Music-Player/master/Music%20Player/music%20player.gif)
 
