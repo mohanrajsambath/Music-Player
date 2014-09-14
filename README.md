@@ -22,6 +22,12 @@ same name which you put in plist file
 
 for any question:  bpolat@live.com
 
+
+Next Step
+================
+Eliminate .plist and dynamically fill song array from a song directory. (If you want to contribute you can work on this item).
+
+
 License
 ==================
 
