@@ -25,7 +25,7 @@ for any question:  bpolat@live.com
 
 App Store Link
 ================
-You can download on your iPhone
+
 https://itunes.apple.com/us/app/zero-project-ambient-symphony/id921387275?mt=8
 
 
