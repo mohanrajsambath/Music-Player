@@ -23,9 +23,10 @@ same name which you put in plist file
 for any question:  bpolat@live.com
 
 
-Next Step
+App Store Link
 ================
-Eliminate .plist and dynamically fill song array from a song directory. (If you want to contribute you can work on this item).
+You can download on your iPhone
+https://itunes.apple.com/us/app/zero-project-ambient-symphony/id921387275?mt=8
 
 
 License
