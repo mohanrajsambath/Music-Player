@@ -35,7 +35,7 @@ License
 Feel free to use code and artwork for commercial and personel usage.  If you want to use music inside project. Contact : www.zero-project.gr
 
 
-Looking for a professional version?
+Looking For A Professional Version?
 =====================================
 
 you can purchase from here :
