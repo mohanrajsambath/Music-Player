@@ -38,6 +38,5 @@ Feel free to use code and artwork for commercial and personel usage.  If you wan
 Looking For A Professional Version?
 =====================================
 
-you can purchase from here :
 https://codecanyon.net/item/music-player/9179230
 
